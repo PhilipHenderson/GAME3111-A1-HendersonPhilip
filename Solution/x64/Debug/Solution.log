@@ -1,0 +1,8 @@
+﻿  Week4-6-ShapeComplete.cpp
+C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\Solution\Week4-6-ShapeComplete.cpp(545,86): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\Solution\Week4-6-ShapeComplete.cpp(545,79): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\Solution\Week4-6-ShapeComplete.cpp(546,75): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\Solution\Week4-6-ShapeComplete.cpp(547,79): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\Solution\Week4-6-ShapeComplete.cpp(548,79): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\Solution\Week4-6-ShapeComplete.cpp(549,81): warning C4244: 'argument': conversion from 'float' to 'GeometryGenerator::uint32', possible loss of data
+  Solution.vcxproj -> C:\Users\Phili\Desktop\Semester 6.0\GAME3111 - Advanced Graphics\DirectX\GAME3111-A1-PhilipHenderson\x64\Debug\Project.exe
